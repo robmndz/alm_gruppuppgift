@@ -6,9 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class AdditionTest {
     Addition addition = new Addition();
-
     
-
     @Test
     void addTwoNumbersTest() {
 
